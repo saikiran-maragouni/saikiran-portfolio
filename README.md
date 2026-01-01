@@ -1,16 +1,44 @@
-# React + Vite
+# Saikiran Maragouni - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern, and responsive portfolio website built to showcase my projects and skills as a Full Stack Developer.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Check it out here](https://your-deployment-link.com) *(Update this after deployment)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend Framework:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Hosting:** Vercel / Netlify / GitHub Pages
 
-## React Compiler
+## ✨ Features
+- **Modern UI/UX:** Clean design with plenty of whitespace and subtle animations.
+- **Dark Mode:** Fully supported dark theme.
+- **Responsive:** Optimized for all devices (Mobile, Tablet, Desktop).
+- **Contact Form:** Integrated functionality to send emails directly via `mailto`.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🏃‍♂️ How to Run Locally
 
-## Expanding the ESLint configuration
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/saikiran-maragouni/saikiran-portfolio.git
+   cd saikiran-portfolio
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start Development Server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for Production**
+   ```bash
+   npm run build
+   ```
+
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
