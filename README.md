@@ -3,7 +3,7 @@
 A clean, modern, and responsive portfolio website built to showcase my projects and skills as a Full Stack Developer.
 
 ## 🚀 Live Demo
-[Check it out here]([https://your-deployment-link.com](https://saikiran-portfolio-roan.vercel.app/)) 
+[Check it out here]([https://saikiran-portfolio-roan.vercel.app/]) 
 
 ## 🛠️ Tech Stack
 - **Frontend Framework:** React (Vite)
