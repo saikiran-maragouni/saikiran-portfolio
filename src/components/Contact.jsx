@@ -33,10 +33,10 @@ const Contact = () => {
 
                         <div className="space-y-6">
                             <a href="mailto:msaikirangoud2002@gmail.com" className="flex items-center gap-4 text-slate-600 dark:text-slate-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors bg-slate-50 dark:bg-slate-900 p-4 rounded-xl border border-slate-100 dark:border-slate-800 group">
-                                <div className="p-3 bg-white dark:bg-slate-800 rounded-lg shadow-sm text-indigo-600 dark:text-indigo-400 group-hover:scale-110 transition-transform">
+                                <div className="p-3 bg-white dark:bg-slate-800 rounded-lg shadow-sm text-indigo-600 dark:text-indigo-400 group-hover:scale-110 transition-transform shrink-0">
                                     <Mail size={24} />
                                 </div>
-                                <span className="font-medium">msaikirangoud2002@gmail.com</span>
+                                <span className="font-medium break-all text-sm sm:text-base">msaikirangoud2002@gmail.com</span>
                             </a>
 
                             <div className="flex gap-4 mt-8">
