@@ -22,10 +22,10 @@ const About = () => {
                         <h2 className="text-3xl md:text-4xl font-bold mb-6 text-slate-900 dark:text-white">About Me</h2>
                         <div className="space-y-6 text-lg text-slate-600 dark:text-slate-400 leading-relaxed">
                             <p>
-                                I’m a software engineer focused on building clean, scalable web applications. I enjoy working across the stack — from designing intuitive user interfaces to developing reliable backend systems.
+                                I’m a software engineer with hands-on experience building clean, scalable web applications using Java, Spring Boot, React, and modern web technologies. I enjoy working across the stack — from crafting intuitive user interfaces to designing reliable backend services.
                             </p>
                             <p>
-                                I care about writing maintainable code, improving performance, and building products that feel simple to use. I’m currently looking to grow in a product-driven team where engineering quality and learning matter.
+                                I focus on writing maintainable code, solving real problems, and continuously improving performance and usability. I’m currently looking to grow in a product-focused team where I can learn deeply, contribute meaningfully, and build software that creates real impact.
                             </p>
                         </div>
                     </div>

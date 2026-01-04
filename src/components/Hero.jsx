@@ -39,7 +39,7 @@ const Hero = () => {
                                 <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
                             </a>
                             <a
-                                href="https://drive.google.com/file/d/1OcrTiSuowaR5808vWoPOYngfwglVcXpL/view?usp=sharing"
+                                href="https://drive.google.com/file/d/1NdIx6yWnTp31gz_UwqpYIRvpDFDds0UR/view?usp=sharing"
                                 target="_blank"
                                 className="group w-full sm:w-auto px-8 py-3.5 bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-200 font-semibold rounded-full border border-slate-200 dark:border-slate-800 hover:border-indigo-200 dark:hover:border-indigo-800 hover:text-indigo-600 dark:hover:text-indigo-400 transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-2"
                             >
